@@ -1,0 +1,9 @@
+<Alloy>
+	<TabGroup backgroundImage = "/imagens/el-reloj-de-fuego.jpg">
+	
+					
+		<ActionBar title="Horoscopo"   id="titulo"></ActionBar>
+	    <Require src="horoscopo"></Require>
+       
+	</TabGroup>
+</Alloy>

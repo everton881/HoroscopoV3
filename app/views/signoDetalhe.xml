@@ -1,0 +1,13 @@
+<Alloy>
+	<Window backgroundImage="/imagens/el-reloj-de-fuego.jpg">
+		<ActionBar title="Horoscopo"  id="titulo"  onHomeIconItemSelected="retornoTitulo">
+			<ImageView id="facebook" ></ImageView>
+		</ActionBar>
+		<View  id="signoView"  dataCollection="Horoscopo">
+		<Label id="signoLabelNome" text="{nome}"></Label>
+		<Label id="signoLabelData" text="{data}"></Label>
+		<Label id="signoLabelMsg" text="{msg}"> </Label>
+		
+		</View>
+	</Window>
+</Alloy>

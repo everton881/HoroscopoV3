@@ -1,0 +1,52 @@
+"#titulo":{
+		
+		icon: "/imagens/zodiaco.png",		
+		backgroundImage:"/imagens/backgrountitulo.png",
+		displayHomeAsUp:true
+		
+		
+	}
+	
+	"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "white"
+	
+}
+
+"#signoLabelNome":{
+	
+	top: 20,
+	left: 5
+	
+	
+	
+}
+
+"#signoLabelData":{
+	
+	top: 40,
+	left: 5
+	
+}
+	
+"#signoLabelMsg":{
+	
+	top: 60,
+	left: 5
+	
+}
+
+"#facebook" :{
+	
+	
+	width: 30,
+	height: 20,
+	image:"/imagens/log_facebook.png"
+	
+	
+	
+}
+
+
+

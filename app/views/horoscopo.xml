@@ -1,0 +1,11 @@
+<Alloy>
+	
+	<Tab id="horoscopoTab">
+	<Window id="horoscopoWindow">
+		
+		<TableView id="signoTableView" onClick="showDetails">
+						
+	</TableView>
+	</Window>
+	</Tab>
+</Alloy>

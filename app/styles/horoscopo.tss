@@ -1,0 +1,51 @@
+
+
+"#row":{
+	height:50,
+	layout:'horizontal',
+	color: "white"
+}
+
+"#horoscopoImageView":{
+	left:5,
+	width:100,
+	height:43
+}
+
+"#nomeLabel":{
+	left:5
+}
+
+"#titulo":{
+		
+		icon: "/imagens/zodiaco.png",
+		
+		backgroundImage:"/imagens/backgrountitulo.png"
+		
+		
+		
+	}
+	
+	"Tab":{
+	titleid:'horoscopo',
+	
+}
+
+"#horoscopoWindow":{
+	
+	titleid:'horoscopo'
+	
+	
+}
+
+
+"TableView" :{
+	
+	
+	padding: 10
+	
+	
+	
+}
+	
+	
